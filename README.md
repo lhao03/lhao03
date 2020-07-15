@@ -3,5 +3,5 @@
 
 I like to lift weights 🏋️‍♀️, listen to [kpop](https://ibighit.com/bts/eng/) 🎤 and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=lhao03.lhao03)
+
 
