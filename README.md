@@ -4,7 +4,7 @@
 I like to lift weights 🏋️‍♀️, listen to [kpop](https://ibighit.com/bts/eng/) 🎤 and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 ### what i'm working on
-I'm currently worknig on a flutter app!
+I'm currently working on a flutter app!
 
 
 
