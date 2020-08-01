@@ -6,6 +6,8 @@ I like to lift weights 🏋️‍♀️ and eat [ice cream](https://www.madebyma
 ### what i'm working on 👩‍💻
 I'm currently working on a [flutter app](https://github.com/lhao03/nutrin-food-tracking-app) 📱, a secret project (that may or not may surface), and summer classes. 
 
+[![Lucy's github stats](https://github-readme-stats.vercel.app/api?username=lhao03)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
