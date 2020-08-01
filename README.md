@@ -14,7 +14,7 @@ I'm currently working on a [flutter app](https://github.com/lhao03/nutrin-food-t
 </a>
 
 
-![Lucy's github stats](https://github-readme-stats.vercel.app/api?username=lhao03&count_private=true) [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhao03&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
