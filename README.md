@@ -6,6 +6,14 @@ I like to lift weights 🏋️‍♀️ and eat [ice cream](https://www.madebyma
 ### what i'm working on 👩‍💻
 I'm currently working on a [flutter app](https://github.com/lhao03/nutrin-food-tracking-app) 📱, a secret project (that may or not may surface), and summer classes. 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lhao03&count_private=true&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhao03&hide=jupyter%20notebook&layout=compact&repo=github-readme-stats" />
+</a>
+
+
 ![Lucy's github stats](https://github-readme-stats.vercel.app/api?username=lhao03&count_private=true) [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhao03&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
