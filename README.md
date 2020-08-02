@@ -15,7 +15,7 @@ I'm currently working on a [flutter app](https://github.com/lhao03/nutrin-food-t
 
 
 
-<---
+<!---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lhao03&count_private=true&include_all_commits=true&repo=github-readme-stats" />
 </a>
