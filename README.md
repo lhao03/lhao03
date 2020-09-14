@@ -1,5 +1,5 @@
 ### welcome!
-👩‍🔬 I am a second year computer science student planning to pursue a combined major with a focus in microbiology and immunology at [UBC](https://ubc.ca) in the Faculty of Science! As you can tell, I am interested in the conjunction between computer science and biological sciences. In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦. 
+👩‍🔬 I am a second year computer science student planning to minor in microbiology and immunology at [UBC](https://ubc.ca) in the Faculty of Science! As you can tell, I am interested in the conjunction between computer science and biological sciences. In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦. 
 
 ### what i'm doing 👩‍💻
 - mentoring high school females about computer science 
