@@ -8,7 +8,7 @@ In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https:/
 - mentoring with connect-f, an initiative lead by nwPlus
 
 ## for the future 
-I am looking for internships in 2021 from Jan-Apr and May-Aug. Check out my [site](https://haolucy.tech/) to learn more and feel free to [contact me](mailto:hao.lucyy@gmail.com)!
+I am looking for internships from May-Aug 2021. Check out my [site](https://haolucy.tech/) to learn more and feel free to [contact me](mailto:hao.lucyy@gmail.com)!
 
 
 
