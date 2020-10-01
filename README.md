@@ -1,5 +1,5 @@
 # ✨ welcome!
-👩‍💻 I am a second year computer science student planning to minor in microbiology and immunology at [UBC](https://ubc.ca) in the Faculty of Science! 
+👩‍💻 I am a second year computer science student planning to minor in health sciences. at [UBC](https://ubc.ca) in the Faculty of Science! 
 In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 ## what i'm up to now!
