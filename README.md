@@ -1,11 +1,11 @@
 # ✨ welcome!
-👩‍💻 I am a second year computer science student planning to minor in health sciences. at [UBC](https://ubc.ca) in the Faculty of Science! 
+👩‍💻 I am a second year computer science student planning to minor in health sciences @ [UBC](https://ubc.ca) in the Faculty of Science! 
 In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 ## what i'm up to now!
 - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀
 - outreach team for [Starhacks](https://www.starhacks.tech/) 🌟
-- lead developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️
+<!-- - lead developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️ -->
 - mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
 
 ## for the future 
