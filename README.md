@@ -3,8 +3,8 @@
 In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 ## what i'm up to now!
-- lead developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️
-- outreach team for [Starhacks](https://www.starhacks.tech/) 🌟
+- developer @[UBC BEST](http://www.ubcbest.com/) ⚕️
+- outreach team for[Starhacks](https://www.starhacks.tech/) 🌟
 - mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
 <!-- - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀 -->
 
