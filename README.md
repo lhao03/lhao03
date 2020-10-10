@@ -1,6 +1,5 @@
 # ✨ welcome!
-👩‍💻 I am a second year computer science student planning to minor in biochemistry @[UBC](https://ubc.ca) in the Faculty of Science! 
-In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
+👩‍💻 I am a second year computer science student planning to minor in biochemistry @[UBC](https://ubc.ca) in the Faculty of Science! I am interested in the intersection of chemistry, health care and technology! In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 ## what i'm up to now!
 - developer @[UBC BEST](http://www.ubcbest.com/) ⚕️
