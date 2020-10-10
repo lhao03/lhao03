@@ -4,7 +4,7 @@ In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https:/
 
 ## what i'm up to now!
 - developer @[UBC BEST](http://www.ubcbest.com/) ⚕️
-- outreach team for[Starhacks](https://www.starhacks.tech/) 🌟
+- outreach team @[Starhacks](https://www.starhacks.tech/) 🌟
 - mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
 <!-- - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀 -->
 
