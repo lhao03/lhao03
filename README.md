@@ -3,8 +3,8 @@
 
 <p align="center">
 	<a href="https://linkedin.com/in/lucy-hao"><img src="assets/linkedin.svg"></a>
-	<a href="mailto:hao.lucyy@gmail.com"><img src="assets/email.svg"></a>
-	<a href="https://medium.com/@jessicawu.9898"><img src="assets/medium.svg"></a>
+	<a href="mailto:hao.lucyy@gmail.com"><img src="assets/envelope.svg"></a>
+	<a href="https://medium.com/@jessicawu.9898"><img src="assets/medium-m.svg"></a>
 </p>
 
 ## what i'm up to now!
