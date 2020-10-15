@@ -8,9 +8,9 @@
 
 ## what i'm up to now!
 - developer @[UBC BEST](http://www.ubcbest.com/) ⚕️
-- outreach team @[Starhacks](https://www.starhacks.tech/) 🌟
 - mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
 <!-- - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀 -->
+<!-- - outreach team @[Starhacks](https://www.starhacks.tech/) 🌟 -->
 
 
 
