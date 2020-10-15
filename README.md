@@ -2,9 +2,8 @@
 👩‍💻 I am a second year computer science student minoring in biochemistry @[UBC](https://ubc.ca) in the Faculty of Science. I am interested in the intersection of chemistry, health care and technology! In my free time I like to powerlift 🏋️‍♀️ and eat [ice cream](https://www.madebymarcus.ca/) 🍦.
 
 <p align="center">
-	<a href="https://linkedin.com/in/lucy-hao"><img src="linkedin.svg"></a>
-	<a href="mailto:hao.lucyy@gmail.com"><img src="envelope.svg"></a>
-	<a href="https://medium.com/@jessicawu.9898"><img src="medium-m.svg"></a>
+	<a href="https://linkedin.com/in/lucy-hao"><img src="assets/LinkedInDark.svg"></a>
+	<a href="mailto:hao.lucyy@gmail.com"><img src="assets/EmailDark.svg"></a>
 </p>
 
 ## what i'm up to now!
