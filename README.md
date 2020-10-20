@@ -7,7 +7,7 @@
 </p>
 
 ### what i'm up to now!
-- developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️
+- developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️ and [Launchpad](https://ubclaunchpad.com/) 🚀
 - mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
 - outreach team @ [StarHacks](https://www.starhacks.tech/) 🌟
 <!-- - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀 -->
