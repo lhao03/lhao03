@@ -6,10 +6,7 @@
 	<a href="mailto:hao.lucyy@gmail.com"><img src="EmailDark.svg"></a>
 </p>
 
-### what i'm up to now!
-- developer @ [UBC BEST](http://www.ubcbest.com/) ⚕️ and [Launchpad](https://ubclaunchpad.com/) 🚀
-- mentoring with connect-f, an initiative lead by nwPlus 👩‍💻
-- outreach team @ [StarHacks](https://www.starhacks.tech/) 🌟
+- checkout what i'm doing at [UBC BEST](https://github.com/UBC-BEST) ⚕️ and [Launchpad](https://github.com/orgs/ubclaunchpad/teams/analytics) 🚀
 <!-- - developer @ [Launchpad](https://ubclaunchpad.com/) 🚀 -->
 <!-- - outreach team @[Starhacks](https://www.starhacks.tech/) 🌟 -->
 
