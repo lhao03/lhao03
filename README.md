@@ -1,7 +1,7 @@
 ## ✨ welcome! i'm lucy 
 👩‍💻 I am a second year computer science student minoring in 🧬 biochemistry @[ubc](https://ubc.ca) in the Faculty of Science. 
 
-🤗 I am interested in the intersection of chemistry/biology, health care and technology! 
+🤗 I am interested in the intersection of chemistry/biology, health care and computer science! 
 
 🏋️‍♀️ 🍦 In my free time I like to powerlift and eat [ice cream](https://www.madebymarcus.ca/). 
 
