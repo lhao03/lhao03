@@ -1,4 +1,4 @@
-## ✨ welcome! i'm lucy 
+## ✨ welcome! i'm lucy —ฅ/ᐠ. ̫ .ᐟ\ฅ —
 👩‍💻 I am a second year computer science student minoring in 🧬 biochemistry @[ubc](https://ubc.ca) in the Faculty of Science. 
 
 🤗 I am interested in the intersection of chemistry/biology, health care and computer science! 
