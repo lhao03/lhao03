@@ -10,6 +10,10 @@
 💼 I am looking for internships from May-Aug 2021. Check out my [site](https://haolucy.tech/) to learn more and feel free to contact me!
 
 <p align="center">
+	<img src="LinkedInDark.svg" height="100px">
+</p>
+
+<p align="center">
 	<a href="https://linkedin.com/in/lucy-hao"><img src="LinkedInDark.svg"></a>
 	<a href="mailto:hao.lucyy@gmail.com"><img src="EmailDark.svg"></a>
 </p>
