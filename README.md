@@ -10,7 +10,7 @@
 💼 I am looking for internships from May-Aug 2021. Check out my [site](https://haolucy.tech/) to learn more and feel free to contact me!
 
 <p align="center">
-	<img src="LinkedInDark.svg" height="100px">
+	<img src="octocat-1607469329228.png" height="150px">
 </p>
 
 <p align="center">
