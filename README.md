@@ -1,13 +1,5 @@
-## ✨ hi and welcome!
-👩‍💻 I am a second year computer science student minoring in 🧬 biochemistry @[ubc](https://ubc.ca) in the Faculty of Science. 
-
-🤗 I am interested in the intersection of chemistry/biology, health care and computer science! 
-
-🏋️‍♀️ 🍦 In my free time I like to powerlift and eat [ice cream](https://www.madebymarcus.ca/). 
-
-✨ Checkout what I'm doing at [ubc best](https://github.com/UBC-BEST) ⚕️ and [launchpad](https://github.com/orgs/ubclaunchpad/teams/analytics) 🚀
-
-💼 I am looking for internships from May-Aug 2021. Check out my [site](https://haolucy.tech/) to learn more and feel free to contact me!
+## ✨ Hi and Welcome, I'm Lucy!
+👩‍💻 I am a second year computer science student minoring in 🧬 biochemistry @[ubc](https://ubc.ca) in the Faculty of Science. ✨ Currently I'm a developer at [ubc best](https://github.com/UBC-BEST) ⚕️ and [launchpad](https://github.com/orgs/ubclaunchpad/teams/analytics) 🚀. I am interested in the intersection of chemistry/biology, health care and computer science! 🏋️‍♀️ 🍦 In my free time I like (more like used to) to powerlift and eat [ice cream](https://www.madebymarcus.ca/). 💼 I am looking for internships from May-Aug 2021. Check out my [site](https://haolucy.tech/) to learn more and feel free to contact me!
 
 <p align="center">
 	<img src="octocat-1607469329228.png" height="150px">
