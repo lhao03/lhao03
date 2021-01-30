@@ -5,6 +5,9 @@
 	<img src="octocat-1607469329228.png" height="150px">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
 	<a href="https://linkedin.com/in/lucy-hao"><img src="LinkedInDark.svg"></a>
 	<a href="mailto:hao.lucyy@gmail.com"><img src="EmailDark.svg"></a>
