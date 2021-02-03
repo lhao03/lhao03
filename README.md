@@ -3,10 +3,9 @@
 
 <p align="center">
 	<img src="octocat-1607469329228.png" height="150px">
-</p
-
-
-<p align="center">
+	<p align="center">
 	<a href="https://linkedin.com/in/lucy-hao"><img src="LinkedInDark.svg"></a>
 	<a href="mailto:hao.lucyy@gmail.com"><img src="EmailDark.svg"></a>
 </p>
+</p
+
