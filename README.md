@@ -7,7 +7,7 @@ Check out my [site](http://lhao03.github.io/) to learn more about me or send me 
 You can also check out my [blog](https://lhao03.github.io/blog/).
 
 <p align="center">
-	<img src="me.gif" height="150px">
+	<img src="me.gif" height="250px">
 	<p align="center">
 </p>
 
