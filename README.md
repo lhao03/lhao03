@@ -7,5 +7,4 @@
 
 Check out my [site](http://lhao03.github.io/) to learn more about me or send me an [email](mailto:hao.lucyy@gmail.com).
 
-<a style="color:#ffd1dc"> test</a>
-You can also check out my [blog](https://lhao03.github.io/blog/).
+You can also check out my [blog](https://lhao03.github.io/blog/)!
