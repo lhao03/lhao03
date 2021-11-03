@@ -1,8 +1,10 @@
 ## Hi, I'm [Lucy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! 👋🏻
 
 <!-- <img align='right' src="https://user-images.githubusercontent.com/55033656/123548173-ee304c00-d720-11eb-979e-43f711f3404b.png" alt="Lucy's Avatar" height="200" /> -->
+<!-- 
+<img align='right' src="octocat.png" alt="Lucy's Avatar" height="150px" /> -->
 
-<img align='right' src="octocat.png" alt="Lucy's Avatar" height="150px" />
+ <img align='right' src="image10.png" alt="Lucy's Avatar" height="175px" />
 
 I study 👩🏻‍💻 computer science and 🧬 biochemistry @[University of British Columbia](https://ubc.ca). I'm interested in developer tooling, programming languages, biochemistry, and viruses (though not so much what viruses can do to us). I also like to lift weights and eat too much dark chocolate.
 
