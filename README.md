@@ -4,7 +4,7 @@
 <!-- 
 <img align='right' src="octocat.png" alt="Lucy's Avatar" height="150px" /> -->
 
- <img align='right' src="image10.png" alt="Lucy's Avatar" height="175px" />
+ <img align='right' src="Image.png" alt="Lucy's Avatar" height="175px" />
 
 I study 👩🏻‍💻 computer science and 🧬 biochemistry @[University of British Columbia](https://ubc.ca). I'm interested in developer tooling, programming languages, biochemistry, and viruses (though not so much what viruses can do to us). I also like to lift weights and eat too much dark chocolate.
 
