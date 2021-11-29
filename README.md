@@ -10,7 +10,7 @@
 
 I study 👩🏻‍💻 computer science and 🧬 biochemistry @[University of British Columbia](https://ubc.ca). I'm interested in developer tooling, programming languages, biochemistry, and viruses (though not so much what viruses can do to us). I also like to lift weights and eat too much dark chocolate.
 
-✨ I'm hoping to learn more about, [Doom Emacs](https://github.com/hlissner/doom-emacs), Vim, and Elixir!
+✨ I'm currently learning more about, [Doom Emacs](https://github.com/hlissner/doom-emacs), Vim, and Elixir!
 
 💻 To learn more about me, check out my [site](http://lhao03.github.io/) or connect with me on [LinkedIn](https://linkedin.com/in/lucy-hao)!
 
