@@ -1,7 +1,6 @@
 \*:･ﾟ✧*:･ﾟ✧ *Hi, I'm Lucy!* .⋆｡⋆☂˚｡⋆｡˚☽˚｡⋆.
-
+<img align='right' src="https://user-images.githubusercontent.com/55033656/147396670-c748f2c9-68fb-43df-8286-0d48ca059466.png" alt="Lucy's Avatar" height="120px" />
  <img align='right' src="Image.png" alt="Lucy's Avatar" height="120px" />
- 
  I study 👩🏻‍💻 computer science and 🧬 biochemistry at the University of British Columbia.
  I'm interested in developer tooling, programming languages, biochemistry, and viruses. 
  I also like to lift weights and eat too much dark chocolate.
