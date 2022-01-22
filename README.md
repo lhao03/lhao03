@@ -28,3 +28,5 @@
   </a>
 </p>
  -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=euj7dn4m7gqc9wniy6c5jrtm5)
