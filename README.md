@@ -2,8 +2,8 @@
 <img align='right' src="katsu.gif" alt="Lucy's Avatar" height="120px" />
  <img align='right' src="Image.png" alt="Lucy's Avatar" height="120px" />
  
- I study 👩🏻‍💻 computer science and 🧬 biochemistry at the University of British Columbia.
- I'm interested in developer tooling, programming languages, biochemistry, and viruses. 
+ I study 👩🏻‍💻 computer science, 🧬 biochemistry and 🦠 microbiology at the University of British Columbia.
+ I'm interested in low level programming, developer tooling, programming languages, biochemistry, and viruses. 
  I also like to lift weights and eat too much dark chocolate.
 
 ` ✨ (✿◡‿◡) ✨`
@@ -26,7 +26,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15"/>
   </a>
-</p>
- -->
+</p> -->
+
+<img align='right' src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=euj7dn4m7gqc9wniy6c5jrtm5)
