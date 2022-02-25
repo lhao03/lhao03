@@ -2,7 +2,7 @@
 <img align='right' src="katsu.gif" alt="Lucy's Avatar" height="120px" />
  <img align='right' src="Image.png" alt="Lucy's Avatar" height="120px" />
  
- I study 👩🏻‍💻 computer science, 🧬 biochemistry and 🦠 microbiology at the University of British Columbia.
+ I study 👩🏻‍💻 computer science, 🧬 biochemistry and 🧪 chemistry at the University of British Columbia.
  I'm interested in low level programming, developer tooling, programming languages, biochemistry, and viruses. 
  I also like to lift weights and eat too much dark chocolate.
 
