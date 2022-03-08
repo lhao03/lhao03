@@ -25,7 +25,7 @@
   </a>
 </p> -->
 
-<img align='right' src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/>
+<!-- <img align='right' src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/> -->
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=euj7dn4m7gqc9wniy6c5jrtm5)
