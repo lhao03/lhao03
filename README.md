@@ -25,7 +25,7 @@
   </a>
 </p> -->
 
-<img align='right' style="width:20vw" src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/>
+<!-- <img align='right' style="width:20vw" src="https://github-profile-trophy.vercel.app/?username=lhao03&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/> -->
 <img align='right' src="katsu.gif" alt="katsu" style="width:20vw" />
 <img align='left' style="width:20vw" src="https://spotify-recently-played-readme.vercel.app/api?user=euj7dn4m7gqc9wniy6c5jrtm5"/>
 
