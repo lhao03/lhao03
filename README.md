@@ -3,15 +3,15 @@
  <img align='right' src="Image.png" alt="Lucy's Avatar" height="50px" />
  
  ✨ (✿◡‿◡) ✨ I study 👩🏻‍💻 computer science and 🧪 chemistry at the University of British Columbia.
- I'm interested in low level programming, developer tooling, programming languages, biochemistry, and viruses. 
- I also like to lift weights and eat too much dark chocolate.
+ I'm interested in systems programming, programming languages, chemistry, viruses, and computer science education.
+ I also think it's fun to lift weights and eat too much dark chocolate.
  
 <!-- <img align='right' src="https://user-images.githubusercontent.com/55033656/123548173-ee304c00-d720-11eb-979e-43f711f3404b.png" alt="Lucy's Avatar" height="200" /> -->
 <!-- 
 <img align='right' src="octocat.png" alt="Lucy's Avatar" height="150px" /> -->
 
 
-<!-- I study 👩🏻‍💻 computer science and 🧬 biochemistry @[University of British Columbia](https://ubc.ca). I'm interested in developer tooling, programming languages, biochemistry, and viruses (though not so much what viruses can do to us). I also like to lift weights and eat too much dark chocolate.
+<!-- I study 👩🏻‍💻 computer science and 🧬 biochemistry @[University of British Columbia](https://ubc.ca). I'm interested in developer tooling, programming languages, chemistry, and viruses (though not so much what viruses can do to us). I also like to lift weights and eat too much dark chocolate.
 
 ✨ I'm currently learning more about, [Doom Emacs](https://github.com/hlissner/doom-emacs), Vim, and Elixir!
 
